@@ -1,0 +1,30 @@
+{
+  "animals": [
+    {
+      "idx": 1,
+      "name": "cat"
+    },
+    {
+      "idx": 2,
+      "name": "tiger"
+    },
+    {
+      "idx": 3,
+      "name": "dog"
+    },
+    {
+      "idx": 4,
+      "name": "lion"
+    },
+    {
+      "id": 5,
+      "name": "rabbit"
+    }
+  ],
+  "users": [
+    {
+      "id": "admin",
+      "password": "admin"
+    }
+  ]
+}
